@@ -1,0 +1,18 @@
+h1{
+  font-family: "Arial";
+  font-size: 40px;
+  text-align: center;
+  text-decoration: overline;
+}
+p{
+  font-family: "Tahoma";
+  font-style: italic;
+  font-size: 20px;
+  line-height: 2;
+}
+
+span{
+  font-weight: bold;
+}
+
+/* rgb(222,222,222) - red green blue */

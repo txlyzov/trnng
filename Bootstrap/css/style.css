@@ -1,0 +1,75 @@
+/* General */
+h3{
+  font-size: 40px;
+  font-weight: bold;
+}
+/* Navbar */
+.navbar{
+  border-bottom: #e600e6 solid 5px;
+}
+
+ .navbar-brand{
+  color: red !important;
+  font-size: 24px;
+  margin-left: 15px;
+}
+
+.nav-link{
+  text-transform: uppercase;
+}
+
+.nav-link:hover{
+  color: white !important;
+}
+
+#header{
+  background: url(https://cdn.nos.nl/image/2021/03/24/726762/3840x2160a.jpg) no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+
+/* Section 2 */
+#feature i{
+  color: #483D8B;
+  cursor: pointer;
+}
+#feature h3:hover{
+  color: #483D8B;
+  cursor: pointer;
+}
+
+#feature{
+  background-color: #FFF8DC;
+}
+
+
+/* Section 3 Video */
+
+#videoSec{
+background: url(https://media.voltron.alhurra.com/Drupal/01live-106/styles/1984x1200/s3/2021-03/2021-03-24T233732Z_748691954_RC2KHM9DUYO5_RTRMADP_3_EGYPT-SUEZCANAL-SHIP.JPG?itok=4lTDgYmG);
+background-repeat:no-repeat;
+background-positio: bottom;
+background-attachment: fixed;
+background-size: cover;
+
+}
+
+#videoSec i{
+  color: #483D8B;
+}
+
+/* Section 4 Cards */
+
+#cardsSec{
+   background-color: #FFFAF0 !important;
+}
+
+#cardsSec .card{
+  /* height: 100px !important; */
+  border: black solid 1px;
+  /* padding: 10px;
+  margin: 30px; */
+  /* height: 440px;
+  width: 240px; */
+}

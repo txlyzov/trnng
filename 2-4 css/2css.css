@@ -1,0 +1,14 @@
+h1{
+  background: rgb(255,80,80);
+  /* border-color:blue;
+  border-width: 5px;
+  border-style: solid; */
+  border: blue 5px solid;
+}
+body{
+  background: url(https://media.discordapp.net/attachments/713733419107876884/805249474866970664/2019-04-15T201537Z_588147156_RC14E222E300_RTRMADP_3_FRANCE-NOTREDAME.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+/* rgb(222,222,222) - red green blue */

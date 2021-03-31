@@ -1,0 +1,19 @@
+.container{
+  border: 1px solid blue;
+  padding: 10px;
+  display: grid;
+  /* grid-template-columns: 100px 200px 300px;
+  grid-template-rows: 100px 200px; */
+  grid-template: 100px 200px / 25% 25%;
+  grid-gap: 10px;
+}
+
+.box{
+
+  background-color: orange;
+  border: 1px solid blue;
+}
+
+.box2{
+  order: -3
+}
