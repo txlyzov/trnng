@@ -59,6 +59,22 @@ background-size: cover;
   color: #483D8B;
 }
 
+#firstModal .modal-dialog .modal-content{
+  padding: 0 1px 2px 1px;
+  border: solid white 1px;
+}
+
+#firstModal .modal-dialog .modal-content .modal-header{
+  background-color: #212529;
+}
+
+#firstModal .modal-dialog .modal-content .modal-body{
+  background-color: #FFF8DC;
+  margin: 0;
+}
+
+
+
 /* Section 4 Cards */
 
 #cardsSec{
